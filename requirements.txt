@@ -1,0 +1,7 @@
+ollama
+pandas
+openpyxl
+sqlite3
+beautifulsoup4
+requests
+scikit-learn
