@@ -1,0 +1,70 @@
+body {
+    margin: 0;
+    font-family: 'Segoe UI', sans-serif;
+    background-color: #f0f4f8;
+  }
+  
+  .app {
+    text-align: center;
+    padding: 40px;
+    max-width: 800px;
+    margin: auto;
+  }
+  
+  .input-section input {
+    padding: 10px;
+    width: 300px;
+    margin-right: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+  }
+  
+  .input-section button {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+  }
+  
+  .input-section button:hover {
+    background-color: #0056b3;
+  }
+  
+  .recommendations {
+    margin-top: 30px;
+    text-align: left;
+  }
+  
+  .card {
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    margin-top: 15px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+  }
+  
+  .card ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .card li {
+    margin: 5px 0;
+  }
+  
+  .error {
+    color: red;
+    margin-top: 10px;
+  }
+
+  .recommendation-box {
+    background-color: #f0f8ff;
+    padding: 20px;
+    border-radius: 10px;
+    margin-top: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    line-height: 1.6;
+  }
+  
+  
